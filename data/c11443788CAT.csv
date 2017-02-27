@@ -1,0 +1,10 @@
+Feature,Count,% Missing,Cardinality,Mode,Mode Count,% Mode,2nd Mode,2n Mode Count,2nd Mode Percent
+workclass,30940,6,9, Private,21576,70.0, Self-emp-not-inc,2406,8.0
+education,30940,0,16, HS-grad,9976,32.0, Some-college,6938,22.0
+marital-status,30940,0,7, Married-civ-spouse,14201,46.0, Never-married,10167,33.0
+occupation,30940,6,15, Prof-specialty,3932,13.0, Craft-repair,3887,13.0
+relationship,30940,0,6, Husband,12496,40.0, Not-in-family,7904,26.0
+race,30940,0,5, White,26442,85.0, Black,2965,10.0
+sex,30940,0,2, Male,20705,67.0, Female,10235,33.0
+native-country,30940,2,42, United-States,27719,90.0, Mexico,607,2.0
+target,30940,0,2, <=50K,23506,76.0, >50K,7434,24.0
